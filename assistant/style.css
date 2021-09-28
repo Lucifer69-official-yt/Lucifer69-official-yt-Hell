@@ -43,6 +43,10 @@ a
  letter-spacing: 1px;
  padding: 10px;
 }
+
+#myTxt:focus{
+    outline: none;
+}
    
 #divInput img
 {
